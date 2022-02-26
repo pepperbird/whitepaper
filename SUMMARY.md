@@ -28,5 +28,5 @@
 ## And One More Thing
 
 * [Thank You](and-one-more-thing/thank-you.md)
-* [About This Doucment](and-one-more-thing/about-this-doucment.md)
+* [About This Document](and-one-more-thing/about-this-document.md)
 * [Revision History](and-one-more-thing/revision-history.md)
