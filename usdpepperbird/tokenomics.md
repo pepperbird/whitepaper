@@ -5,5 +5,6 @@
 | BSC Contract Address | TBD                 |
 | Network              | Binance Smart Chain |
 | Total Supply         | 100,000,000,000,000 |
+| Transaction Fee      | 12%                 |
 
-![](../.gitbook/assets/Tokenomics.PNG)
+![(Left Chart) Total Token Allocation | (Right Chart) Transaction Fee Breakout](../.gitbook/assets/Tokenomics.PNG)
