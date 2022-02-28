@@ -1,6 +1,6 @@
 # Custom Reflections
 
-$Pepperbird was crafted with you in mind and given one key function, redistribute wealth to its holders. The token was design with the capable to not only change selected rewards but allow future upgrade to a customize reflection option.&#x20;
+$Pepperbird was crafted with you in mind and given one key function, redistribute wealth to its holders. The token was designed with the capabilities to not only change selected rewards but allow future upgrades to a customized reflection option.&#x20;
 
 > ### _Your reflection - Your way_
 

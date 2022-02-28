@@ -25,6 +25,6 @@ Jenfin is our financial management system designed to track all of your finances
 
 Pepperbird Finance Ecosystem is crafted and developed to drive the use of it's currency with one key focus in mind, passive income generation. Membership fees, API sales, Merch Store purchases and the need for a more cost efficient way to handle these transaction makes Pepperbird Token gasless transaction API (application programming interface) a perfect addition to our ecosystem.
 
-Hodlers of $Pepperbird will not only benefit from reduce membership and added discounts throughout the ecosystem. 20% of all Jenfin membership fees and 5% of Merch store sales goes to fund the rewards/reflection pool.
+Hodlers of $Pepperbird will not only benefit from reduced membership and added discounts throughout the ecosystem. 20% of all Jenfin membership fees and 5% of Merch store sales goes to fund the rewards/reflection pool.
 
 #### _Pepperbird Finance is a dba of Glover Seven LLC based in the great state of North Carolina, USA._
