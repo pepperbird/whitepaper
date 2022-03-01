@@ -18,7 +18,8 @@
 
 ## $Pepperbird
 
-* [Tokenomics](usdpepperbird/tokenomics.md)
+* [Tokenomics](usdpepperbird/tokenomics/README.md)
+  * [Pepperbird Initial Token Supply Breakdown](usdpepperbird/tokenomics/pepperbird-initial-token-supply-breakdown.md)
 * [Charity Initiatives](usdpepperbird/charity-initiatives.md)
 
 ## Roadmap

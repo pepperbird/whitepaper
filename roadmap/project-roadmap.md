@@ -48,5 +48,10 @@
   * [ ] 1% of every transaction goes to charity wallet
     * [ ] &#x20;.5% to a charity focus on outreach to Liberia, West Africa and other African Nations
     * [ ] .5% to charities focus on veterans, women and children
-* [ ] JenFin **** Fiat and Crypto Wallet (20% of membership fees goes to the reflection pool)
+* [ ] JenFin **** Fiat and Crypto Wallet (20% of membership fees goes to the reflection pool
 
+|                                                                                                                                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Pepperbird Finance Roadmap on Pivotal Tracker](https://storage.googleapis.com/pepperbird/images/Tracker\_Half\_Stacked.svg)](https://www.pivotaltracker.com/projects/2556071) |
+|                                                                  Track our detailed roadmap via Pivotal Tracker                                                                  |
+|                                                                                                                                                                                  |
