@@ -9,8 +9,8 @@
 
 #### Preparing for Launch Marketing
 
-* [ ] Website launch
-* [ ] Post launch and private sale marketing campaign
+* [x] Website launch
+* [x] Post website launch and private sale marketing campaign
 * [ ] Complete Reflection Calculator Dashboard
 
 ### **Phase Two -  Launch Presale and Pancakeswap**
