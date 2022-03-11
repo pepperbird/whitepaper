@@ -12,16 +12,10 @@ This distribution does not receive reflections and is locked in a third-party wa
 
 This distribution is part of the operating cost of doing business; used to fund much-needed marketing, technology infrastructure, research, app development and to keep the business running. Our operating budget is then sustained via 1% of the transaction tax.
 
-### 5% - Legal Advisors
-
 &#x20;Pepperbird Finance is a US-based business operating under an LLC in North Carolina. This brings up certain legalities such as taxation, employment, and crypto accounting that are not altogether clear. This is set aside to deal with such legal considerations as they occur.
-
-### 8% - Future Hires&#x20;
-
-We understand that we will have to grow our team in the future. To compete, we will have to have a competitive reward package. New hires who receive token compensation as part of their incentive package will fall under a minimal six-month vesting period.
 
 —
 
-### 54% - Allocated to private sale and presale
+### 67% - Allocated to private sale and presale
 
-![Pepperbird Initial Token Allocation](https://lh5.googleusercontent.com/DEVPPf44pTZGtz8utTrltriKkdzP9\_yZVqXdvEVbv1IJhtkVkaSgZ7QQIVGh1E0RCAl6xg1m3v3z0XUoF17bs61g5hf9cxWVewpQ7vWJNV6nhFPTiPrJNQTL-IMLyOGPjvh9GNiq)
+![](<../../.gitbook/assets/Initial Supply Breakdown.PNG>)
