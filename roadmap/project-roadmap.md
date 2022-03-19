@@ -17,7 +17,7 @@
 
 * [ ] Private Sale
 * [ ] Marketing Campaign v2
-* [ ] Complete audit and KYC
+* [x] Complete audit and KYC
 * [ ] Presale
 * [ ] Pancakeswap Listing
 * [ ] Coin Marketcap Listing
@@ -26,8 +26,8 @@
 
 ### **Phase Three - Staking and Farming Dapp**
 
-* [ ] Custom Reflections Dashboard
-* [ ] Gasless Dashboard
+* [x] Custom Reflections Dashboard
+* [x] Gasless Dashboard
 * [ ] Implementing staking and farming
 * [ ] &#x20;NFT Boosters
 * [ ] Launch Discord and Instagram
