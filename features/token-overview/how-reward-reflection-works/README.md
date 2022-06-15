@@ -6,7 +6,7 @@ Once the reward tokens are purchased, they are distributed to the crypto wallets
 
 ![](<../../../.gitbook/assets/Rewards distribution1.png>)
 
-![](<../../../.gitbook/assets/Attention (1).png>) Founders, operations and charity wallets are not eligible for the 6% reflection distribution and will not receive any rewards from the allocation.
+<img src="../../../.gitbook/assets/Attention (1).png" alt="" data-size="line"> Founders, operations and charity wallets are not eligible for the 6% reflection distribution and will not receive any rewards from the allocation.
 
 Disabling reflections on administration accounts ensure reflections are disbursed accurately based on percentages to investors wallets.
 

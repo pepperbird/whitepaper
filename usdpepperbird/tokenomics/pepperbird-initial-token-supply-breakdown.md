@@ -16,6 +16,8 @@ This distribution is part of the operating cost of doing business; used to fund 
 
 —
 
-### 67% - Allocated to private sale and presale
+### 25% - Burned
 
-![](<../../.gitbook/assets/Initial Supply Breakdown.PNG>)
+### 42% - Allocated to private sale and presale
+
+![](<../../.gitbook/assets/image (5).png>)

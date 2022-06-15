@@ -15,10 +15,10 @@
 
 ### **Phase Two -  Launch Presale and Pancakeswap**
 
-* [ ] Private Sale
-* [ ] Marketing Campaign v2
+* [x] Private Sale
+* [x] Marketing Campaign v2
 * [x] Complete audit and KYC
-* [ ] Presale
+* [x] Presale
 * [ ] Pancakeswap Listing
 * [ ] Coin Marketcap Listing
 * [ ] Coin Gecko Listing
