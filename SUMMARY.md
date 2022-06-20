@@ -7,6 +7,8 @@
 
 ## Features
 
+* [Company Framework](features/company-framework/README.md)
+  * [Revenue Model](features/company-framework/revenue-model.md)
 * [Token Overview](features/token-overview/README.md)
   * [How Reward/Reflection Works](features/token-overview/how-reward-reflection-works/README.md)
     * [Reward Contingency](features/token-overview/how-reward-reflection-works/reward-contingency.md)
